@@ -1,0 +1,200 @@
+{
+    "basic_info": {
+      "description_header": "About Me",
+      "description": "ベトナムのホーチミン市出身のファンゴックハーと申します！2017年に日本に参りまして、5年間経ちました。趣味は音楽を聞くことと音楽を聴きながらコーディングすることです。今年の目標は新しいプログラミン言語を身につけて実作業に使えるようになりたいので、週末少なくとも３時間程時間を取って勉強します。よろしくお願いいたします。",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "【公式・多言語】ホテルグランヴィア和歌山",
+        "startDate": "2021年12月",
+        "description": "担当：メインコーダー。初めてメインコーダーとしてゼロから構築したサイトです。この案件こ自分の技術が一層良くなりましたと初めて実感できました。",
+        "images": [
+          "images/portfolio/hgw/p1.png",
+          "images/portfolio/hgw/p2.png",
+          "images/portfolio/hgw/p3.png"
+        ],
+        "url": "https://www.granvia-wakayama.co.jp/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "【公式・多言語】Seven Colors 石垣島",
+        "startDate": "2022年01月",
+        "description": "担当：メインコーダー。全体雰囲気のバランスをすごく大事にしたサイトでした。デザイナーとのコミュニケーションは大切なことだのことはこの案件よりわかるようになりました。",
+        "images": [
+          "images/portfolio/sc/p1.png",
+          "images/portfolio/sc/p2.png",
+          "images/portfolio/sc/p3.png"
+        ],
+        "url": "https://www.hotel-sevencolors.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "【LP】 大本山 相国寺と金閣・銀閣の名宝",
+        "startDate": "2022年11月",
+        "description": "担当：メインコーダー。全体の動きにはこだわりがあるサイトで、パララックスのプラグインとアニメションを一番頑張ったサイトです。",
+        "images": [
+          "images/portfolio/lp/p1.png",
+          "images/portfolio/lp/p2.png",
+          "images/portfolio/lp/p3.png"
+        ],
+        "url": "https://www.o-bje.net/lp/shokokuji/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "【多言語】ワークホテル 天神の湯",
+        "startDate": "2022年04月",
+        "description": "担当：メインコーダー。スマホ画面では動作しやすいように、タブ切り変えはセレクトボックスに変更します。修正時の負担を減らしたいので、同じデータをPCでもSPでも使えるように、裏でjsを工夫しました。",
+        "images": [
+          "images/portfolio/wh/p1.png",
+          "images/portfolio/wh/p2.png"
+        ],
+        "url": "https://www.workhotel.jp/en/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "【運営サポート】オリエンタルホテルズ＆リゾーツ",
+        "startDate": "2021年08月",
+        "description": "担当：メインサポート、ベトナムメンバーへの技術サポートと翻訳。先方のとのメールやりとりなどのスキルはこの案件より色々身につけるようになりました。",
+        "images": [
+          "images/portfolio/ohr/p1.png",
+          "images/portfolio/ohr/p2.png",
+          "images/portfolio/ohr/p3.png"
+        ],
+        "url": "https://www.o-bje.net/lp/shokokuji/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      
+      {
+        "title": "大本山 相国寺と金閣・銀閣の名宝 LP",
+        "startDate": "2022年11月",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/lp/p1.png",
+          "images/portfolio/lp/p2.png",
+          "images/portfolio/lp/p3.png"
+        ],
+        "url": "https://www.o-bje.net/lp/shokokuji/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

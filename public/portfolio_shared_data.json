@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Pham Ngoc Ha",
+      "titles": [ "Front-end Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/hapham530",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jquery",
+          "class": "devicon-jquery-plain",
+          "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "30"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "30"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "40"
+        }
+      ]
+    }
+  }
