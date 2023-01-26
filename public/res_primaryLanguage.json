@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "About Me",
-      "description": "ベトナムのホーチミン市出身のファンゴックハーと申します！2017年に日本に参りまして、5年間経ちました。趣味は音楽を聞くことと音楽を聴きながらコーディングすることです。今年の目標は新しいプログラミン言語を身につけて実作業に使えるようになりたいので、週末少なくとも３時間程時間を取って勉強します。よろしくお願いいたします。",
+      "description": "ベトナムのホーチミン市出身のファンゴックハーと申します！2017年に日本に参りまして、5年間経ちました。趣味は音楽を聞くことと音楽を聴きながらコーディングすることです。今年の目標は新しいプログラミン言語を身につけて実作業に使えるようになりたいので、週末少なくとも３時間程時間を取って勉強してます。よろしくお願いいたします。",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "【公式・多言語】ホテルグランヴィア和歌山",
         "startDate": "2021年12月",
-        "description": "担当：メインコーダー。初めてメインコーダーとしてゼロから構築したサイトです。この案件こ自分の技術が一層良くなりましたと初めて実感できました。",
+        "description": "担当：メインコーダー。初めてメインコーダーとしてゼロから構築したサイトでした。この案件こ自分の技術が一層良くなりましたと初めて実感できました。",
         "images": [
           "images/portfolio/hgw/p1.png",
           "images/portfolio/hgw/p2.png",
@@ -136,15 +136,13 @@
       },
       
       {
-        "title": "大本山 相国寺と金閣・銀閣の名宝 LP",
-        "startDate": "2022年11月",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Todoリスト管理アプリ",
+        "startDate": "2022年12月",
+        "description": "簡単なTodoリスト管理のアプリで、Todo項目を自由に追加して、そのものを直接に編集したり削除したりするのができます。Reactの独習で実装したアプリでした。",
         "images": [
-          "images/portfolio/lp/p1.png",
-          "images/portfolio/lp/p2.png",
-          "images/portfolio/lp/p3.png"
+          "images/portfolio/todo/p1.png"
         ],
-        "url": "https://www.o-bje.net/lp/shokokuji/",
+        "url": "https://simple-todo-app-with-react.netlify.app/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -155,8 +153,8 @@
             "name": "Sass"
           },
           {
-            "class": "devicon-jquery-plain",
-            "name": "Jquery"
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
