@@ -61,15 +61,14 @@
         ]
       },
       {
-        "title": "【LP】 大本山 相国寺と金閣・銀閣の名宝",
-        "startDate": "2022年11月",
-        "description": "担当：メインコーダー。結構情報量が多いため、全体の動きが大変こだわりがあるサイトでした。背景のパララックス動きや各画像と見出しのアニメションを工夫して頑張りました。",
+        "title": "【多言語】ワークホテル 天神の湯",
+        "startDate": "2022年04月",
+        "description": "担当：メインコーダー。スマホ画面では動作しやすいように、タブ切り変えの部分を全部セレクトボックスに変更しないといけないのは前提でした。テキスト修正時の負担を減らしたいと思って、htmlのタグ直接変更するように裏でjsを工夫して構築したサイトでした。",
         "images": [
-          "images/portfolio/lp/p1.png",
-          "images/portfolio/lp/p2.png",
-          "images/portfolio/lp/p3.png"
+          "images/portfolio/wh/p1.png",
+          "images/portfolio/wh/p2.png"
         ],
-        "url": "https://www.o-bje.net/lp/shokokuji/",
+        "url": "https://www.workhotel.jp/en/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -86,14 +85,15 @@
         ]
       },
       {
-        "title": "【多言語】ワークホテル 天神の湯",
-        "startDate": "2022年04月",
-        "description": "担当：メインコーダー。スマホ画面では動作しやすいように、タブ切り変えの部分を全部セレクトボックスに変更しないといけないのは前提でした。テキスト修正時の負担を減らしたいと思って、htmlのタグ直接変更するように裏でjsを工夫して構築したサイトでした。",
+        "title": "【LP】 大本山 相国寺と金閣・銀閣の名宝",
+        "startDate": "2022年11月",
+        "description": "担当：メインコーダー。結構情報量が多いため、全体の動きが大変こだわりがあるサイトでした。背景のパララックス動きや各画像と見出しのアニメションを工夫して頑張りました。",
         "images": [
-          "images/portfolio/wh/p1.png",
-          "images/portfolio/wh/p2.png"
+          "images/portfolio/lp/p1.png",
+          "images/portfolio/lp/p2.png",
+          "images/portfolio/lp/p3.png"
         ],
-        "url": "https://www.workhotel.jp/en/",
+        "url": "https://www.o-bje.net/lp/shokokuji/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
